@@ -66,7 +66,8 @@ void loop()
 ```
 
 ## CIRCUIT DIAGRAM:
-![Uploading Screenshot 2024-04-15 135946.png…]()
+![Screenshot 2024-04-15 135946](https://github.com/kanmanikannu/Control-of-Relay-Using-IoT-controller/assets/114866367/b454774f-e891-4c99-8b74-a60278f73d8f)
+
 
 
 
