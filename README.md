@@ -1,7 +1,7 @@
 #### Name : Kanmani U
 #### Reg No : 212221040070
 
-# Exp 02 Control-of-Relay-Using-IoT-controller
+# Exp 02 Control of Relay Using IoT controller
 
 ##  AIM:
 To control the Relay using Arduino controller
@@ -70,7 +70,12 @@ void loop()
 
 
 ## OUTPUT:
-![exp2 output1](https://github.com/kanmanikannu/Control-of-Relay-Using-IoT-controller/assets/114866367/764590f0-6d96-4e9b-ab88-1278d770189a)
+#### ON STATE:
+![IOT EXP2 OP](https://github.com/kanmanikannu/Control-of-Relay-Using-IoT-controller/assets/114866367/271c9bdd-6587-426f-98ab-1b408aeee893)
+#### OFF STATE:
+![IOT EXP2 OFF](https://github.com/kanmanikannu/Control-of-Relay-Using-IoT-controller/assets/114866367/a726acb0-e54f-4c47-8447-5f9ade12649d)
+
+
 
 
 ## RESULT:
